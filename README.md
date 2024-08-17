@@ -5,7 +5,7 @@ Andressa Assis, Gabriel Berger, Brenda Chaves, Eduarda Goulart, Alex Almeida e A
 
 ## REQUISITOS DO PROGRAMA DE DEPARTAMENTO PESSOAL EM PORTUGOL 
 
-##1. CADASTRO DE COLABORADORES.
+## 1. CADASTRO DE COLABORADORES.
 
 Descrição: Os alunos devem implementar uma funcionalidade que permita o cadastro de colaboradores. As informações de cada colaborador serão armazenadas em vetores.
 
@@ -15,7 +15,8 @@ Requisitos:
   Verificar se o limite de colaboradores foi atingido antes de permitir novos cadastros.
   Permitir que os dados de um colaborador já cadastrado sejam editados.
 
-2. FOLHA DE PAGAMENTO.
+## 2. FOLHA DE PAGAMENTO.
+   
 Descrição: Os alunos devem implementar uma funcionalidade que permita calcular e exibir a folha de pagamento dos colaboradores cadastrados, levando em consideração descontos fixos.
 
 Requisitos:
@@ -35,7 +36,8 @@ Requisitos:
   Exibir o nome do colaborador, salário bruto, valores dos descontos e salário líquido.
   Gerar um relatório com os dados da folha de pagamento.
 
-3. CONTROLE DE PONTO.
+## 3. CONTROLE DE PONTO.
+   
 Descrição: Os alunos devem implementar uma funcionalidade que permita o registro de ponto dos colaboradores, armazenando os horários de entrada e saída.
 
 Requisitos:
@@ -45,6 +47,7 @@ Requisitos:
   Exibir relatórios de horas trabalhadas para cada colaborador.
 
 REQUISITOS EXTRAS (Opcional).
+
 Relatórios: 
  Implementar uma função que exibe um relatório completo de todos os colaboradores cadastrados, com seus dados, folha de pagamento e ponto.
  Erros na entrada de dados (vou digitar letras onde esperar número)
