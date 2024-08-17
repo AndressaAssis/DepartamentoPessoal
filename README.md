@@ -1,4 +1,4 @@
-# PROJETO FINAL - LÓGICA DE PROGRAMAÇÃO
+# PROJETO FINAL - LÓGICA DE PROGRAMAÇÃO ✨
 
 ## REALIZADORES DO PROJETO: 
 Andressa Assis, Gabriel Berger, Brenda Chaves, Eduarda Goulart, Alex Almeida e Athirson.
@@ -53,7 +53,7 @@ Relatórios:
  Erros na entrada de dados (vou digitar letras onde esperar número)
  Regras Gerais
 
-## USO DE FUNÇÕES: 
+## USO DE FUNÇÕES: 🎯
 Todos os cálculos e operações devem ser implementados usando funções. Evitar a repetição de código.
 Interface Simples: O programa deve apresentar um menu de opções para o usuário escolher entre as funcionalidades (cadastrar colaborador, registrar ponto, calcular folha de pagamento).
 
