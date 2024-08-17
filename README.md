@@ -5,7 +5,8 @@ Andressa Assis, Gabriel Berger, Brenda Chaves, Eduarda Goulart, Alex Almeida e A
 
 ## REQUISITOS DO PROGRAMA DE DEPARTAMENTO PESSOAL EM PORTUGOL 
 
-1. CADASTRO DE COLABORADORES.
+##1. CADASTRO DE COLABORADORES.
+
 Descrição: Os alunos devem implementar uma funcionalidade que permita o cadastro de colaboradores. As informações de cada colaborador serão armazenadas em vetores.
 
 Requisitos:
