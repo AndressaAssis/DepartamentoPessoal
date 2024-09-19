@@ -57,5 +57,6 @@ Relatórios:
 Todos os cálculos e operações devem ser implementados usando funções. Evitar a repetição de código.
 Interface Simples: O programa deve apresentar um menu de opções para o usuário escolher entre as funcionalidades (cadastrar colaborador, registrar ponto, calcular folha de pagamento).
 
-  
+## LICENÇA.
 
+- Todo o projeto foi em colaboração com todos os envolvidos no projeto a fins acadêmicos.
